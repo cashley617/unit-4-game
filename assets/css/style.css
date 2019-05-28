@@ -1,0 +1,50 @@
+
+body {
+    font-family: 'Neucha', cursive;
+    background: url("../images/justin-kauffman-1240257-unsplash.jpg");
+    background-repeat: repeat;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Luckiest Guy', cursive;
+    color: white;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
+
+
+
+
+.scoreCount {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    padding-bottom: 30px;
+}
+
+#randomNumber {
+    /* background-color: white;
+    color: black;
+    padding: 10px;
+    padding-bottom: 30px; */
+}
+
+#totalScore {
+    background-color: white;
+    color: black;
+}
+
+#totalScoreHeading {
+    background-color: white;
+    color: black;
+    padding: 10px;
+}
