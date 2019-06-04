@@ -41,6 +41,7 @@ img {
 #totalScore {
     background-color: white;
     color: black;
+    padding: 10px;
 }
 
 #totalScoreHeading {
