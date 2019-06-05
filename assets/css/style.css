@@ -21,21 +21,11 @@ img {
     padding-bottom: 50px;
 }
 
-
-
-
 .scoreCount {
     background-color: white;
     color: black;
     padding: 10px;
     padding-bottom: 30px;
-}
-
-#randomNumber {
-    /* background-color: white;
-    color: black;
-    padding: 10px;
-    padding-bottom: 30px; */
 }
 
 #totalScore {

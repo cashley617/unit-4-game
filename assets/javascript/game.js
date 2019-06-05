@@ -19,8 +19,9 @@ function initGame() {
     assignRandomNumber();
     updateDOM();
     assignCrystalNumber();
-    setEventListeners();
 };
+
+setEventListeners();
 
 initGame(); 
 
